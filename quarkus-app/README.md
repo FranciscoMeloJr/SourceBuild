@@ -1,0 +1,1 @@
+Example wget injection
